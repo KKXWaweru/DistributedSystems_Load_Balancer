@@ -24,10 +24,18 @@ This is a Distributed systems project that handles the implementation of a custo
 
 The project utilises Docker and Flask to facilitate consistent hashing to route requests to the appropriate backend server while minimizing disruptions when servers are added or removed.
 
-## 🖥️ How to Run
-### 1. Clone the repository
+### Project Structure
 
- git clone https
+## 🖥️ How to Run
+### 1. Clone the repository into your maachine
+`git clone https://github.com/KKXWaweru/DistributedSystems_Load_Balancer.git`
+
+### Install Dependencies
+
+### Build the server containers
+
+##
+
 
 
 
